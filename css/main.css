@@ -1,0 +1,25 @@
+body {
+    box-sizing: border-box;
+}
+.row {
+    margin: 5px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.banner {
+    background-color: aquamarine;
+}
+
+.especialidades{
+    background-color: bisque;
+    margin: 0;
+}
+
+.recetas{
+    background-color: black;
+}
